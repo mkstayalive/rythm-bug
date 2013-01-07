@@ -1,6 +1,6 @@
 require:
     - play -> play 1.2.5
     - play -> crud
-    - play -> rythm 1.0.0-20121128
+    - play -> rythm 1.0.0-20121210
     - play -> pdf 0.9
     - elpminify -> elpminify 0.1
