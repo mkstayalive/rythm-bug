@@ -1,0 +1,22 @@
+.project
+.settings
+.classpath
+bin
+README
+project
+target
+logs
+tmp
+eclipse
+server.pid
+modules
+precompiled
+test-result
+data
+
+# OS generated files #
+######################
+.DS_Store
+ehthumbs.db
+Thumbs.db
+
